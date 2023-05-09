@@ -6,7 +6,7 @@ My school's printer only allows me to print 10 pages at a time, everytime the fi
 Setting up:
 
 ```bash
-git clone https://github.com/ngxuandat/PDF-to-pages-PDFs/main.py
+git clone https://github.com/ngxuandat/PDF-to-pages-PDFs
 ```
 
 There are three things you need to do:
